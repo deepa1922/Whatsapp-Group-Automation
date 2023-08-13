@@ -14,7 +14,7 @@ This script allows you to automate the process of creating a WhatsApp group, add
 ## Usage
 
 1. Before running the script, make sure you have read the documentation and understand the ethical considerations and policies outlined.
-2. Run the `main.py` script:
+2. Run the `MainScript.py` script:
 3. Follow the on-screen instructions to scan the QR code, create a group, add participants, and send messages.
 
 ## Important Notes

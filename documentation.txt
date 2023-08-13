@@ -1,0 +1,28 @@
+WhatsApp Group Automation Script - Important Considerations
+
+1. Respect Privacy: This script interacts with WhatsApp, a messaging platform used by individuals.
+ Ensure that your use of this script respects the privacy of individuals and complies with relevant data protection laws.
+
+2. Consent: Obtain explicit consent from individuals before adding them to any groups or sending messages on their behalf.
+ Do not use this script for unsolicited communication.
+
+3. Terms of Use: WhatsApp Web usage is subject to WhatsApp's Terms of Service. Be aware of the limitations and rules imposed
+ by WhatsApp to avoid violating their terms.
+
+4. Anti-Spam Policies: WhatsApp enforces strict anti-spam policies. Sending a high volume of unsolicited messages can lead
+ to account suspension. Use the script responsibly to avoid spamming.
+
+5. Legal and Regulatory Compliance: Ensure your use of this script complies with all applicable laws and regulations
+ in your jurisdiction. Unauthorized use could result in legal consequences.
+
+6. Accountability: You are solely responsible for the actions taken using this script.
+ Use it responsibly and be prepared to address any issues that arise from its use.
+
+7. Testing Environment: It's recommended to use the script in a controlled testing environment to understand its
+functionality and behavior before deploying it in a live setting.
+
+8. Updates and Maintenance: WhatsApp's interface and policies may change over time, affecting the script's functionality.
+ Stay updated with any changes and adapt the script accordingly.
+
+Remember, responsible and ethical use of this script is crucial to avoid causing inconvenience, violating privacy, or
+facing legal repercussions.
